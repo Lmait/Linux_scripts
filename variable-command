@@ -1,0 +1,10 @@
+#!/bin/bash
+# Vars defining example
+
+a=Max
+b=L
+c="Linux class"
+
+echo "Name is $a"
+echo "Sur is $b"
+echo "Class is $c"

@@ -1,0 +1,15 @@
+#!/bin/bash
+# mlarionov
+
+a=`hostname`
+echo Hello, server is $a
+echo
+echo Input ur name:
+read b
+echo
+echo Input profession
+echo
+read c
+echo Hello, $b, doing $c
+echo
+

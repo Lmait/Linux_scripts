@@ -1,0 +1,10 @@
+#!/bin/bash
+# 
+
+clear
+if [ -e /home/mlarionov/test.txt ]
+  then
+    echo "File exists"
+  else
+    echo "File not found"
+fi
